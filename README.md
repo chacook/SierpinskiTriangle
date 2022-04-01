@@ -1,4 +1,4 @@
-I saw a video about a simple algorithm to draw a Sierpiński triangle, so I thought I would try it out.
+I saw a video about a simple algorithm to draw a Sierpiński triangle by @MathLetters on TikTok, so I thought I would try it out.
 
 * Step 1: add the triangle vertices.
 * Step 2: add a random point within the vertices.
