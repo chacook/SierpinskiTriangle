@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 num_dots = 25000
 
-# x and y coordinates of vertices of the triangle
+# initially just the x and y coordinates of vertices of the triangle
 x = [-2, 0, 2]
 y = [0, 5, 0]
 
